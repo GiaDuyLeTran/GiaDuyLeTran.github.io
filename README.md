@@ -1,2 +1,2 @@
-# giaduyletran.github.io
+# duytrangiale.github.io
 My E-portfolio
